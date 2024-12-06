@@ -6,31 +6,31 @@
         },
         {
             "src": "/gemini/v1/(.*)",
-            "dest": "https://generativelanguage.googleapis.com/v1/\"
+            "dest": "https://generativelanguage.googleapis.com/v1/"
         },
         {
             "src": "/gemini/v1beta/(.*)",
-            "dest": "https://generativelanguage.googleapis.com/v1beta/\"
+            "dest": "https://generativelanguage.googleapis.com/v1beta/"
         },
         {
             "src": "/openai/v1/(.*)",
-            "dest": "https://api.openai.com/v1/\"
+            "dest": "https://api.openai.com/v1/"
         },
         {
             "src": "/groq/openai/v1/(.*)",
-            "dest": "https://api.groq.com/openai/v1/\"
+            "dest": "https://api.groq.com/openai/v1/"
         },
         {
             "src": "/claude/v1/(.*)",
-            "dest": "https://api.anthropic.com/v1/\"
+            "dest": "https://api.anthropic.com/v1/"
         },
         {
             "src": "/cohere/v1/(.*)",
-            "dest": "https://api.cohere.ai/v1/\"
+            "dest": "https://api.cohere.ai/v1/"
         },
         {
             "src": "/xai/v1/(.*)",
-            "dest": "https://api.x.ai/v1/\"
+            "dest": "https://api.x.ai/v1/"
         }
     ],
     "regions": [
